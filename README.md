@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This analysis is a strategic data analytics case study focused on customer segmentation and targeted marketing strategies for the U.S. mall retail market. Built using **Power BI**, this project explores how traditional shopping malls can adapt to evolving consumer behavior in the age of e-commerce by leveraging RFM modeling, Pareto analysis, and demographic insights.
-
-## *This project is my original work, developed as part of my college capstone for MBA specializing in Business Analytics.*
+This analysis is a strategic data analytics case study focused on customer segmentation and targeted marketing strategies for the U.S. mall retail market. Built using **Power BI**, this project explores how traditional shopping malls can adapt to evolving consumer behavior in the age of e-commerce by leveraging RFM modeling, Pareto analysis, and demographic insights. This project helped me to my knowledge to good use that I had gathered as a MBA management student where I have leveraged studying the market conditions in the age of ecommerce, this project focuses on the footfall that the malls and different brand stores are currently facing due to the on-line delivery system. This project offers suggestions on how the retail market needs to move at the faster rate in the age of AI and digital transformation to stay in business.
 
 ---
 
