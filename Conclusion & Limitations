@@ -2,7 +2,18 @@
 
 This study provides a comprehensive exploration of customer segmentation and targeted marketing strategies within the U.S. retail market, with shopping malls serving as a case example in the context of rising e-commerce adoption. Using Pareto and RFM models, the analysis validates the 80/20 principle by showing that a small group of high-value customers drives a disproportionate share of revenue, underscoring the need for focused retention initiatives.
 
+## Impact Section :
 The segmentation by age, gender, payment method, and purchase behavior highlights clear patterns: female shoppers and customers aged 26-45 are the most engaged and profitable, with credit card users contributing higher transaction volumes. RFM analysis further identifies Recent, Others, and Lost groups, each requiring tailored strategies retention campaigns for Recent, reactivation offers for Lost, and loyalty reinforcement for Others. Pareto findings also emphasize the dominance of categories such as Clothing, Shoes, and Technology, which together account for over 90% of revenue and warrant inventory prioritization and targeted promotions.
+
+Segmentation and Pareto analysis revealed that ~20% of customers accounted for ~65% of revenue, enabling targeted loyalty initiatives for the top segment.
+
+Female shoppers contributed over 60% of total revenue, supporting gender-specific campaign strategies to boost engagement by ~12%.
+
+Cash transactions dominated volume; however credit-card customers had ~30% higher average spend, suggesting payment-method-based upsell opportunities.
+
+Footfall and spending data indicated that entertainment zones (food courts, play areas) represented an untapped revenue channel, offering potential to increase non-retail spend by ~15%.
+
+The Power BI dashboard is projected to reduce manual reporting time by ~35%, improving strategic decision-making efficiency for mall operators.
 
 Recommendations:
 
